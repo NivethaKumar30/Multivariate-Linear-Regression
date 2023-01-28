@@ -51,6 +51,7 @@ predictCO2=regr.predict([[3300,1300]])
 print('predicted CO2 for the corresponding weight and volume',predictCO2)
 ```
 ## Output:
+![MULTIVARIANT](https://user-images.githubusercontent.com/119559844/215287266-b1873630-cb00-4249-9627-f383f4f18093.png)
 
 ### Insert your output
 
